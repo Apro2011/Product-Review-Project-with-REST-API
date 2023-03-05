@@ -1,0 +1,16 @@
+asgiref==3.6.0
+Django==4.1.7
+django-cors-headers==3.14.0
+django-filter==22.1
+django-versatileimagefield==3.0
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+drf-flex-fields==1.0.1
+Markdown==3.4.1
+Pillow==9.4.0
+PyJWT==2.6.0
+python-magic==0.4.27
+python-magic-bin==0.4.14
+pytz==2022.7.1
+sqlparse==0.4.3
+tzdata==2022.7

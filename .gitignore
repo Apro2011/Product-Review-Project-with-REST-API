@@ -1,0 +1,7 @@
+env
+medium/__pycache__
+media
+reviews/migrations
+reviews/__pycache__
+auth/migrations
+auth/__pycache__
